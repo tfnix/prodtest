@@ -1,4 +1,4 @@
-## Produto Detail :fire:
+## Produto Detail 
 Teste para desenvolvedor frontend: Criação de Layout e funcionalidades
 
 
